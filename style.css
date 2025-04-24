@@ -14,7 +14,7 @@ body {
     linear-gradient(to right bottom, 
    rgba(2, 6, 7, 0.2),
    rgba(68, 129, 216, 0.3)),
-   url('./uploads/hero.jpg');
+   url('hero.jpg');
     
   background-size: cover;
     background-position: 100%;
